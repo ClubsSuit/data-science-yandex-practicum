@@ -23,4 +23,4 @@
 
 **Библиотеки**
 
-```Pandas```
+```Pandas```  ```SciPy``` ```NumPy``` ```Matplotliib```
