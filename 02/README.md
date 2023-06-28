@@ -35,4 +35,4 @@
 
 **Библиотеки**
 
-```Pandas```  ```Matplotlib```  ```NumPy```
+```Pandas```  ```Matplotlib```  ```NumPy```  ```Seaborn```
