@@ -35,4 +35,4 @@
 
 **Используемые библиотеки**
 
-```Pandas```, ```Matplotlib```, ```Seaborn```, ```Pymystem3```
+```Pandas```  ```Matplotlib```  ```Seaborn```  ```Pymystem3```
