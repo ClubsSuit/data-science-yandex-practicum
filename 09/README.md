@@ -12,3 +12,4 @@
 
 **Используемые библиотеки**
 
+```Pandas```  ```Matplotlib```  ```NumPy```  ```Seaborn```  ```LightGBM```
