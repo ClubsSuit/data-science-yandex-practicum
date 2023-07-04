@@ -31,3 +31,4 @@
 
 **Использованные библиотеки**
 
+```Pandas```  ```SciPy``` ```NumPy``` ```Matplotliib``` ```XGBoost```
