@@ -2,7 +2,7 @@
 
 В данном репозитории собраны проекты, выполненные в процессе обучения по программе профессиональной переподготовки Специалист по Data Science.
 
-## Сертификат ([Русский](sertificate/Герасимов Дмитрий Константинович_20232ЦПДС00765.pdf) | [English](sertificate/Gerasimov Dmitry_20232ЦПДС00765.pdf))
+## Сертификат ([Русский](https://github.com/ClubsSuit/data-science-yandex-practicum/blob/main/sertificate/%D0%93%D0%B5%D1%80%D0%B0%D1%81%D0%B8%D0%BC%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%20%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87_20232%D0%A6%D0%9F%D0%94%D0%A100765.pdf) | [English](https://github.com/ClubsSuit/data-science-yandex-practicum/blob/main/sertificate/Gerasimov%20Dmitry_20232%D0%A6%D0%9F%D0%94%D0%A100765.pdf))
 
 | Проект | Описание | Библиотеки &nbsp; &nbsp; |
 |---|---|---|
