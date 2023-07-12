@@ -1,6 +1,6 @@
 # Оценка кредитоспособности клиентов банка
 
-[[ipynb](https://github.com/ClubsSuit/data-science-yandex-practicum/blob/main/01/credit.ipynb)]
+[ipynb](https://github.com/ClubsSuit/data-science-yandex-practicum/blob/main/01/credit.ipynb)
 
 ## **Описание проекта**
 
